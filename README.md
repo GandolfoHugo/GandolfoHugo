@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **hugohg.18@gmail.com**
 
-- 📄 Know about my experiences [Investigacion academica, articulos publicados, ponencias, etc.](Investigacion academica, articulos publicados, ponencias, etc.)
-
 - ⚡ Fun fact **I love bikes**
 
 <h3 align="left">Connect with me:</h3>
