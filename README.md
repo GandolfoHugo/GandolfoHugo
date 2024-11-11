@@ -1,17 +1,17 @@
 <h1 align="center">Hola soy Hugo Gandolfo</h1>
-<h3 align="center">Sociologo(UBA). Apasionado por la Data Base, la investigación científico-académica.</h3>
+<h3 align="center">Sociologo(UBA). Apasionado por el análisis de los datos y la investigación científico-académica.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gandolfohugo&label=Profile%20views&color=0e75b6&style=flat" alt="gandolfohugo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gandolfohugo" alt="gandolfohugo" /></a> </p>
 
-- 🌱 I’m currently learning **Argentina Programa**
+- 🌱 En este perfil encontrarás una serie de trabajos realizados bajo diferentes lenguajes y softwares de visualización de datos
 
-- 👯 I’m looking to collaborate on **R studio**
+- 👯 Trabajo con R, Python, SQL, PowerBi,SPSS
 
-- 🤝 I’m looking for help with **R studio, Data Base**
+- 🤝 También puedes preguntarme sobre papers, trabajos academicos, etc!
 
-- 💬 Ask me about **Sociología**
+- 💬Preguntame sobre datos, informes y gobernanza de datos!
 
 - 📫 How to reach me **hugohg.18@gmail.com**
 
